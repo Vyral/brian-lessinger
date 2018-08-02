@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-622840313272678510.post-216429445322170761
 blogger_orig_url: http://thelessingerteam.blogspot.com/2017/08/why-you-should-consider-buying-over.html
 ---
 {% include youtube.html %}
-
 Many people decide to rent a home instead of buying one because they don’t know enough about the process. We hope to shed some more light on this today.
 
 In the last week, I’ve probably talked to three or four different agents who are looking for a home for their clients. They aren’t looking for a home to buy, though- they are looking for a home to rent.
