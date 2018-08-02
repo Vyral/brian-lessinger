@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-622840313272678510.post-622007756622220611
 blogger_orig_url: http://thelessingerteam.blogspot.com/2017/08/things-to-understand-about-home.html
 ---
 {% include youtube.html %}
-
 There’s been some confusion lately about what appraisals are and who they’re for. Today I’d like to clear that up.
 
 I’ve seen many people confused about what appraisals are and what they’re meant to do. Generally, an appraisal is seen as the final word on a property’s value.
