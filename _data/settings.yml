@@ -1,47 +1,49 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: Real Estate Video Blog with Brian Lessinger
 description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Property Management
+    url: http://www.thelessingerteam.com/property-management/
 
 client:
-  name:
+  name: Brian Lessinger
   title:
   license_number:
   about_markdown: |
+    Brian is a rare find in the world of real estate, blending business savvy, strong management experience and comprehensive training with fantastic people skills and a great sense of humor.
 
+    His greatest strength is his ability to focus solely on the needs of each client to offer superior representation to help them reach their goals. His commitment and caring for the people he serves allows him to look beyond the immediate, representing their best interests both now and in the future.
   market:
-  brand:
+  brand: The Lessinger Team
   brokerage:
-  address:
-  phone:
+  address: 10795 Double R Blvd. Reno, NV 89521
+  phone: 775-327-9900
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: brian@thelessingerteam.com
+  url: http://www.thelessingerteam.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.thelessingerteam.com/selling-your-home/whats-my-home-worth/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.thelessingerteam.com/buy-a-home/search-properties-for-sale/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.thelessingerteam.com/selling-your-home/whats-my-home-worth/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.thelessingerteam.com/buy-a-home/search-properties-for-sale/
 
 lender:
   show_section: false
@@ -57,17 +59,17 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/The-Lessinger-Team-ReMax-Realty-Affiliates-449696868471807/?ref=hl
+  linkedin_url: https://www.linkedin.com/in/brian-lessinger-41077052
+  gplus_url: https://plus.google.com/114719075329109375577/
+  youtube_url: https://www.youtube.com/channel/UCr5GHdujoOYQk2v8loUlIxQ
+  twitter_url: https://twitter.com/BrianLessinger
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
-  podcast_url:
+  zillow_url: http://www.zillow.com/profile/blessinger/
+  trulia_url: http://www.trulia.com/profile/brian-lessinger-agent-reno-nv-zgr4px1d/overview
+  yelp_url: http://www.yelp.com/biz/lessinger-team-reno-2
+  podcast_url: https://itunes.apple.com/us/podcast/brian-lessinger-real-estate/id1072148277?mt=2
 
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
@@ -87,8 +89,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#04509A'
+  theme_color: '#818285'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
