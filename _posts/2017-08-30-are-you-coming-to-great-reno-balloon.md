@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-622840313272678510.post-141197218448864766
 blogger_orig_url: http://thelessingerteam.blogspot.com/2017/08/are-you-coming-to-great-reno-balloon.html
 ---
 {% include youtube.html %}
-
 Here’s a quick reminder about some of our upcoming events. This year, we’ve got a lot of great things planned, including our annual Great Reno Balloon Race.
 
 Today I’ve got a quick reminder for you about some of the events we have coming up in the near future.
