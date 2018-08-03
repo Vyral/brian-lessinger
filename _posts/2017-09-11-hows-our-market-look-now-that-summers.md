@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-622840313272678510.post-900016405610790240
 blogger_orig_url: http://thelessingerteam.blogspot.com/2017/09/hows-our-market-look-now-that-summers.html
 ---
 {% include youtube.html %}
-
 Our market cooled off a bit during the summer, but now that that’s ending, things should get back to normal.
 
 If I haven’t spoken to you recently, I’m sure you’re hearing all sorts of things about our market. Here’s what’s really going on, though.
