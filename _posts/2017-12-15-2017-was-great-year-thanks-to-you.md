@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-622840313272678510.post-722786828432649437
 blogger_orig_url: http://thelessingerteam.blogspot.com/2017/12/2017-was-great-year-thanks-to-you.html
 ---
 {% include youtube.html %}
-
 The Lessinger Team had an amazing year and it’s all thanks to you.
 
 2017 was an amazing year for us here at the Lessinger Team. **Today, my team and I want to thank you for that.**
