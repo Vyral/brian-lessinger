@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-622840313272678510.post-291355154279276511
 blogger_orig_url: http://thelessingerteam.blogspot.com/2018/03/let-us-be-resource-for-you.html
 ---
 {% include youtube.html %}
-
 There are many ways you can use my team and I as a resource. It seems like recently, we’ve been helping a lot more people make their move here from another state.
 
 I wanted to let all of you know that you can call us for things other than real estate.
