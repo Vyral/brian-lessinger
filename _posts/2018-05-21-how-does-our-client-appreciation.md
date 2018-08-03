@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-622840313272678510.post-789715676492232698
 blogger_orig_url: http://thelessingerteam.blogspot.com/2018/05/how-does-our-client-appreciation.html
 ---
 {% include youtube.html %}
-
 Our client appreciation program is just one of the ways we provide value as a company. Here is how it works.
 
 Today I am excited to talk about our client appreciation program and explain it in great detail. Here is how it works.
