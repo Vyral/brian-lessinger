@@ -20,7 +20,6 @@ blogger_id: tag:blogger.com,1999:blog-622840313272678510.post-761674518487358732
 blogger_orig_url: http://thelessingerteam.blogspot.com/2017/11/two-services-we-provide-property.html
 ---
 {% include youtube.html %}
-
 I want to discuss two topics today: property management and referrals.
 
 Today’s topic is actually about two separate things: property management and referrals. I wanted to educate you a little bit about some things we do in our property management business that you might not be aware of, as well as about how referrals work since our business is based on them.
