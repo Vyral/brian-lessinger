@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-622840313272678510.post-32728116291211925
 blogger_orig_url: http://thelessingerteam.blogspot.com/2018/07/the-advantages-of-owning-real-estate.html
 ---
 {% include youtube.html %}
-
 Is it better to rent a property or own one? We will discuss this today in the fourth installment into our six-part series on the advantages of owning real estate.
 
 Today marks the fourth installment of our series on the advantages of owning real estate, and, this time, we will be going even deeper into the subject. Specifically, I would like to share some advice about when purchasing a home is the superior option to renting.
