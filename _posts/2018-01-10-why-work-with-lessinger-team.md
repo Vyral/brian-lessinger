@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-622840313272678510.post-848869023053601257
 blogger_orig_url: http://thelessingerteam.blogspot.com/2018/01/why-work-with-lessinger-team.html
 ---
 {% include youtube.html %}
-
 Do you plan on buying or selling a home in 2018? If so, the Lessinger Team is here to help you reach your real estate goals.
 
 If you are thinking of buying or selling a home in 2018, it’s important that you work with an experienced real estate team.
