@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-622840313272678510.post-195629976680664408
 blogger_orig_url: http://thelessingerteam.blogspot.com/2017/09/do-you-plan-on-selling-your-home-this.html
 ---
 {% include youtube.html %}
-
 If you want to sell your home this fall or winter, there are a few things you should do to prepare your property for the market.
 
 If you plan on listing your home anytime between October and March, there are a few things you should do to prepare for the market.
