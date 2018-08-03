@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-622840313272678510.post-464092285029073533
 blogger_orig_url: http://thelessingerteam.blogspot.com/2018/07/what-kind-of-advantages-does-investment.html
 ---
 {% include youtube.html %}
-
 Most of the time, my clients are looking for appreciation, cash flow, or both.
 
 Today we’re back with No. 5 in our six-part series discussing the advantages of owning real estate. This time, we’re discussing the advantages of owning rental properties.
