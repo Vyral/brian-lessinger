@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-622840313272678510.post-221932479924510239
 blogger_orig_url: http://thelessingerteam.blogspot.com/2018/04/your-1st-quarter-northern-nevada-market.html
 ---
 {% include youtube.html %}
-
 Inventory is low and prices have been increasing in our market, so if you’re thinking about buying, you should do so sooner rather than later.
 
 What’s the latest news from our first quarter market? Everyone’s been hearing that it’s seller’s market, there’s not a lot of inventory, and it’s hard for buyers to find a home, but how much of that is true?
