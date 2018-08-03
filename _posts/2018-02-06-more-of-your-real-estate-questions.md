@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-622840313272678510.post-706000241889932216
 blogger_orig_url: http://thelessingerteam.blogspot.com/2018/02/more-of-your-real-estate-questions.html
 ---
 {% include youtube.html %}
-
 Today, I’d like to continue answering some questions about our market that I’ve been hearing.
 
 Recently, I attended the Builder’s Association forecast for 2018. Based on what was said there, I can say that the **outlook for the coming year is good.**
