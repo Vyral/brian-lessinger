@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-622840313272678510.post-592935216750980376
 blogger_orig_url: http://thelessingerteam.blogspot.com/2017/10/2-helpful-books-to-jump-start-your.html
 ---
 {% include youtube.html %}
-
 Today I want to go over a few things I think could be helpful to you and your business. These are the same resources I’ve utilized myself and I want to share them with you.
 
 Today’s topic is going to be a little different. I’d like to take some time to talk about coaching, mentoring, and also some books I think could be helpful to you.
