@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-622840313272678510.post-602220922176449568
 blogger_orig_url: http://thelessingerteam.blogspot.com/2018/04/boosting-your-credit-score.html
 ---
 {% include youtube.html %}
-
 Why is it so important to boost your credit score? Sign up for my monthly mailer to get more information.
 
 For those of you who receive the item of value that I send out each month, **I’ve recently sent out a letter detailing the importance of having a good credit score,** indluding tips you can use to boost yours if it isn’t where it needs to be.
