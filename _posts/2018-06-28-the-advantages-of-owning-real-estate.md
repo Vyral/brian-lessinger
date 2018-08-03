@@ -18,7 +18,6 @@ blogger_id: tag:blogger.com,1999:blog-622840313272678510.post-764082376029640653
 blogger_orig_url: http://thelessingerteam.blogspot.com/2018/06/the-advantages-of-owning-real-estate.html
 ---
 {% include youtube.html %}
-
 Today I am continuing my series about the advantages of owning real estate by discussing the third advantage: appreciation.
 
 Today I continue my series on the advantages of owning real estate. The benefit we'll be discussing today is appreciation.
