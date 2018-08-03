@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-622840313272678510.post-330889430571807722
 blogger_orig_url: http://thelessingerteam.blogspot.com/2017/11/new-vs-existing-homes.html
 ---
 {% include youtube.html %}
-
 When it comes to deciding whether to buy an existing home or building a new one, there are a lot of variables to think about. Here are my thoughts about choosing what to do.
 
 Today’s topic is two-fold: I’m asked all the time if it’s cheaper to buy or build a house, and also whether it’s better to buy a new or existing home. I’ll be discussing the answers to both of these questions.
