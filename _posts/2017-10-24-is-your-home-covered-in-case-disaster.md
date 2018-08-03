@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-622840313272678510.post-754819502787543013
 blogger_orig_url: http://thelessingerteam.blogspot.com/2017/10/is-your-home-covered-in-case-disaster.html
 ---
 {% include youtube.html %}
-
 If you’re not sure you have the right homeowners insurance, talk to your insurance agent immediately and get that corrected so if disaster strikes, you don’t make a bad situation worse.
 
 Today’s topic hits somewhat close to home for me. The topic I'm talking about is making sure you have the right homeowners insurance in case disaster strikes.
