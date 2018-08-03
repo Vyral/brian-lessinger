@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-622840313272678510.post-419217451778935632
 blogger_orig_url: http://thelessingerteam.blogspot.com/2018/03/the-power-of-positive-leadership.html
 ---
 {% include youtube.html %}
-
 If you’re in a position of leadership, no matter what type of position that is, I believe it’s important that you be a positive person.
 
 **Anyone who spends time with me either at home or at work knows that I’m an upbeat, positive person most of the time.** Why do I think this is so important? Let me give you an example.
