@@ -18,7 +18,6 @@ blogger_id: tag:blogger.com,1999:blog-622840313272678510.post-822858387817431780
 blogger_orig_url: http://thelessingerteam.blogspot.com/2018/06/today-i-will-be-discussing-first-of-six.html
 ---
 {% include youtube.html %}
-
 Today I will be discussing the first of six advantages to owning real estate.
 
 Today’s video begins my six-part series about the advantages that come with owning real estate.
