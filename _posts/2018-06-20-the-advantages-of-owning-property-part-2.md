@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-622840313272678510.post-898813175541815658
 blogger_orig_url: http://thelessingerteam.blogspot.com/2018/06/the-advantages-of-owning-property-part-2.html
 ---
 {% include youtube.html %}
-
 How can making improvements to your property benefit your overall personal wealth? Today let’s discuss this question in the second installment of our six-part series on the advantages of property ownership.
 
 Today marks the second installment of our six-part series on the advantages of owning real estate. Let’s dive right in.
