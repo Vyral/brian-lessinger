@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I Can Help You Find Agents Outside Nevada
-date:
+date: 2018-08-27 20:44:30
 tags:
   - Real Estate
 excerpt: >-
@@ -30,5 +30,3 @@ For those of you who want to buy a rental property in another state or have fami
 I’ve helped a family in New York this way, and I’ve also helped a family member move to Virginia. We can find you a real estate agent pretty much anywhere.
 
 If you ever have the need to find an agent out of the state or if you have any real estate questions for me, please don’t hesitate to reach out to me. I’d be happy to help you out.
-
-&nbsp;
