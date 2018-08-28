@@ -19,7 +19,7 @@ youtube_code: kUfJ558OFtQ
 
 {% include youtube.html %}
 
-I can help you find a real estate agent for you almost anywhere, not just Nevada, and today I want to prove it to you.
+I’m only licensed to assist with real estate transactions in Nevada, but that doesn’t mean that I still can’t help you if you’re out of state.
 
 I’m often asked if I’m able to assist clients in out-of-state areas like Lake Tahoe and cities in California. Now, **my team and I are licensed to operate in the state of Nevada**, so I can only personally help you if you’re in the state.
 
