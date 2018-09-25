@@ -24,7 +24,7 @@ youtube_code: 1sHNZT50jCI
 
 I was watching TV the other day and a commercial came on saying that they could get me approved for a home loan in as little as eight minutes. Well, I've been working in real estate for a long time and I am here to say that this is not possible.
 
-If someone tells you that they can get you approved in eight minutes, that means that you're just calling an online lender and they are taking your word as fact. I always advise my clients **to speak with an actual lender either on the phone or sit down with them in person and provide them all the information that they need to get you qualified.**
+If someone tells you that they can get you approved in eight minutes, that means that you're just calling an online lender and they are taking your word as fact. I always advise my clients **to speak with an actual lender either on the phone or sit down with them in person and provide them with all the information that they need to get you qualified.**
 
 Doing this will actually let you know what you can afford. Sometimes you can be approved for a loan for much more than you really want to spend. This lets you know what your monthly payments will be as well as your property taxes, insurance, HOA fees, etc.
 
