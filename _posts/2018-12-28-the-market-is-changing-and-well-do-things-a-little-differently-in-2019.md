@@ -1,8 +1,10 @@
 ---
 layout: post
 title: 'The Market Is Changing, and We’ll Do Things a Little Differently in 2019'
-date: 2018-12-28 15:18:44
+date: 2018-12-28 15:18:00
 tags:
+  - Real Estate
+  - Market Update
 excerpt: >-
   As we enter 2019, we plan on doing things a little differently his year, but
   how we generate our business and how we take care of our clients will remain
