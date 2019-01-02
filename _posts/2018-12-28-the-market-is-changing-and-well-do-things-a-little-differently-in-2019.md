@@ -33,4 +33,4 @@ How we generate our business and how we take care of our clients will remain the
 
 That being said, **we’d love it if you got in touch with us so we have your best and most accurate contact information.** Whether it’s addresses, phone numbers, emails, or social media, we plan on interacting with our friends and clients more often.
 
-We look forward to hopefully seeing you in person this year, and we hope you have an amazing start to 2019. As always, if you ever have any real estate needs at all, don’t hesitate to call or email me. I’d be happy to help you.
+We look forward to hopefully seeing you in person this year, and we hope you have an amazing start to 2019. As always, if you ever need help with any real estate needs at all, don’t hesitate to call or email me. I’d be happy to help you.
