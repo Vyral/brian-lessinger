@@ -26,7 +26,7 @@ Having an idea of what your home is worth is perfect for when you’re looking t
 
 {% include pullquote.html %}
 
-When you ask us to valuate your home, we’ll typically take a look at your house in order to find comparable homes. We can look at the sales of these similar homes to accurately find your own home’s worth.
+When you ask us to evaluate your home, we’ll typically take a look at your house in order to find comparable homes. We can look at the sales of these similar homes to accurately find your own home’s worth.
 
 **If you’re worried about how clean your home is, don’t be!** We understand there may be toys on the floor, kids running around, and so on. None of it goes into consideration during a valuation because, after all, you’re not trying to sell it yet.
 
