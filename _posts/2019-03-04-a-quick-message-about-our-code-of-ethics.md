@@ -20,8 +20,6 @@ youtube_code: EpWCtN9UClI
 
 {% include youtube.html %}
 
-&nbsp;
-
 If you were to open up the Google homepage right now and search “Realtors are…” you would be amazed to see what the most common search results are for that phrase. Suggestions like “Realtors are scum,” “Realtors are a joke,” and even “Realtors are liars,” will all pop up as you type.
 
 At the Lessinger Team, we take this very seriously. **We do everything in our power to subvert these negative stereotypes and hold ourselves to a higher standard.** We believe that Realtors exist to serve communities—to help families buy and sell homes. We operate under a strong code of ethics because we truly care about serving you: our clients.
