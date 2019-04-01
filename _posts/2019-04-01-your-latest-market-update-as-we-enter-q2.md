@@ -24,7 +24,7 @@ youtube_code: FC9LE9J8W9c
 
 Now that we’re into April, what’s the latest news from our Reno/Sparks market as we look back on the first quarter?
 
-In terms of sales and new listings, **the first quarter of 2019 was probably the slowest market we’ve seen in a long time.** &nbsp;The primary reason for this is the November/December time frame leads into our first quarter, and for the first time in a long time, we had an actual winter. Lots of bad weather seemed to constantly occur on the weekends, and many buyers opted to stay home rather than go out and look at homes.&nbsp;
+In terms of sales and new listings, **the first quarter of 2019 was probably the slowest market we’ve seen in a long time.** The primary reason for this is the November/December time frame leads into our first quarter, and for the first time in a long time, we had an actual winter. Lots of bad weather seemed to constantly occur on the weekends, and many buyers opted to stay home rather than go out and look at homes.&nbsp;
 
 <br>{% include pullquote.html %}
 
@@ -32,6 +32,4 @@ That being said, **now that the weather is warming up, I think our market will s
 
 Over the next three to six months, I predict that home prices and interest rates will increase at a slow, steady pace that’ll be beneficial no matter what side of the transaction you’re on. Especially if you’re thinking of buying, now is a great opportunity.&nbsp;
 
-Whether you’re buying, selling, or you have any other questions about our market, don’t hesitate to reach out to me so I can help you achieve all of your real estate goals. I look forward to hearing from you.&nbsp;<br>&nbsp;
-
-&nbsp;
+If you're buying or selling, or if you have any other questions about our market, don’t hesitate to reach out to me so I can help you achieve all of your real estate goals. I look forward to hearing from you.&nbsp;
