@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How We at the Lessinger Team View Our Role
-date:
+date: 2019-05-28 18:32:47
 tags:
 excerpt: Questions about money? The Lessinger Team would love to help.
 enclosure: >-
