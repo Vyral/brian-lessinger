@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How We at the Lessinger Team View Our Role
+title: Let Us Be Your Resource for All Things Money Management
 date: 2019-05-28 18:32:00
 tags:
 excerpt: Questions about money? The Lessinger Team would love to help.
