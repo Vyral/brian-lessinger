@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Be a Millionaire
-date: 2019-06-10 16:23:12
+date: 2019-06-10 16:23:00
 tags:
   - Real Estate
 excerpt: >-
