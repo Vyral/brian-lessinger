@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Be a Millionaire
+title: How to Become a Millionaire
 date: 2019-06-10 16:23:00
 tags:
   - Real Estate
