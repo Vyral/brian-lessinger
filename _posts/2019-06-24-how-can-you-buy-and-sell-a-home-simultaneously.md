@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can You Buy and Sell a Home Simultaneously?
-date:
+date: 2019-06-24 15:19:45
 tags:
   - Real Estate
   - Home Buyer Tips
