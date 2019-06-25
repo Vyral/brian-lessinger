@@ -21,7 +21,7 @@ youtube_code: kgqrnNVKtlU
 
 {% include youtube.html %}
 
-We’ve been hearing a lot from homeowners who have equity and want to sell their current home and find a new one. There are a couple of good ways to do this.
+We’ve been hearing a lot from homeowners who want to sell their current home, take advantage of the equity they have, and then go out to purchase a new one.There are a couple of good ways to do this.
 
 First, we should talk about the options you have for your new home. Then we’ll have you speak with a lender to see if you can buy your new house before you sell your current one. **This is the easiest way to go about it, but most people can’t afford two mortgages at once.**
 
@@ -31,4 +31,4 @@ What usually happens is that you need to sell your current home in order to buy 
 
 An easier way to do this is to get a rent-back from your buyer after you sell your home. You’ll have access to your money to buy a new home while you become a tenant of your home for a month or two. **It gives you time to close on your new house and set up your move.**
 
-Every case is different, but this process isn’t as complicated as you think. If you or someone you know needs help with a situation like this or you just have any other real estate-related questions for us, don’t hesitate to give us a call or send us an email today. We look forward to hearing from you soon.<br>&nbsp;
+Every case is different, but this process isn’t as complicated as you might think. If you or someone you know needs help with a situation like this or you just have any other real estate-related questions for us, don’t hesitate to give us a call or send us an email today. We look forward to hearing from you soon.<br>&nbsp;
