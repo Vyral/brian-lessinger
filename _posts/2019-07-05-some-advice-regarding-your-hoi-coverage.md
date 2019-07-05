@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Some Advice Regarding Your HOI Coverage
-date: 2019-07-05 20:47:25
+date: 2019-07-05 20:47:00
 tags:
   - Real Estate
 excerpt: >-
