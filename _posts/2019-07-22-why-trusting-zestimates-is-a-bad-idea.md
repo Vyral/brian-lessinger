@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Trusting Zestimates Is a Bad Idea
-date: 2019-07-22 20:59:04
+date: 2019-07-22 20:59:00
 tags:
   - Real Estate
   - Home Seller Tips
