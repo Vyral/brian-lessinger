@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Explaining Our Role As Your Trusted Advisor
-date: 2019-08-05 16:30:08
+date: 2019-08-05 16:30:00
 tags:
   - Real Estate
 excerpt: >-
