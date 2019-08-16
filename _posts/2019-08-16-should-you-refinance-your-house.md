@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should You Refinance Your House?
-date:
+date: 2019-08-16 19:01:52
 tags:
   - Home Buyer Tips
 excerpt: Here’s my advice.
