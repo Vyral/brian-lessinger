@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Should You Refinance Your House?
-date: 2019-08-16 19:01:52
+date: 2019-08-16 19:01:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s my advice.
 enclosure:
 pullquote: >-
-  Before you refinance your house, ask yourself, “Why do I want to refinance my
-  house?”
+  Before you refinance your house, ask yourself, 'Why do I want to refinance my
+  house?'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
