@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When Is the Best Time to Take Pictures of Your Home for Sale?
-date: 2019-09-16 15:05:16
+date: 2019-09-16 15:05:00
 tags:
 excerpt: >-
   If an early spring sale is in store for you, it’s a good idea to get exterior
@@ -21,8 +21,8 @@ I was with a client recently who was considering selling their home after they f
 
 **The truth is that winter is hit or miss when it comes to pictures.** Some days the light is great and it’s a beautiful day, but other times it’s not so great.&nbsp;
 
+{% include pullquote.html %}
+
 If you are considering selling anytime this fall or winter, please reach out to me today. **I’d love to help you take pictures of your home now in early fall while it looks great and the grass is still green.** It’s always better to have these pictures ready just in case you have a winter sale in your future as well.
 
 If you have any questions for me about selling your home or about anything else related to real estate, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
-
-{% include pullquote.html %}
