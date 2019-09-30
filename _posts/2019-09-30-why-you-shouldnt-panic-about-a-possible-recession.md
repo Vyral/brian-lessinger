@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why You Shouldn’t Panic About a Possible Recession
-date:
+date: 2019-09-30 17:46:08
 tags:
 excerpt: >-
   Although a recession may be in our future, that doesn’t mean you should panic.
@@ -15,7 +15,11 @@ youtube_alternate_image: /uploads/lessinger-youtube-4.jpg
 youtube_code: 8XBckH8FnQ4
 ---
 
-{% include youtube.html %} <center>Although a recession may be in our future, that doesn’t mean you should panic. Here’s why.</center> 
+{% include youtube.html %}
+
+<center>Although a recession may be in our future, that doesn&rsquo;t mean you should panic. Here&rsquo;s why.</center>
+
+&nbsp;
 
 We’ve had this lovely eight to ten year great economy with prices going up in Northern Nevada, so we’re starting to hear the word “recession” thrown around. How long can it last? There are really no economic indicators where that point to a terrible recession with dramatic price drops.&nbsp;
 
