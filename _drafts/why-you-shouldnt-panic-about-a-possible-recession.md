@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/lessinger-youtube-4.jpg
 youtube_code: 8XBckH8FnQ4
 ---
 
-{% include youtube.html %}Although a recession may be in our future, that doesn’t mean you should panic. Here’s why.
+{% include youtube.html %} <center>Although a recession may be in our future, that doesn’t mean you should panic. Here’s why.</center> 
 
 We’ve had this lovely eight to ten year great economy with prices going up in Northern Nevada, so we’re starting to hear the word “recession” thrown around. How long can it last? There are really no economic indicators where that point to a terrible recession with dramatic price drops.&nbsp;
 
