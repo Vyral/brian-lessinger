@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why You Shouldn’t Panic About a Possible Recession
-date: 2019-09-30 17:46:08
+date: 2019-09-30 17:46:00
 tags:
 excerpt: >-
   Although a recession may be in our future, that doesn’t mean you should panic.
@@ -17,7 +17,7 @@ youtube_code: 8XBckH8FnQ4
 
 {% include youtube.html %}
 
-<center>Although a recession may be in our future, that doesn&rsquo;t mean you should panic. Here&rsquo;s why.</center>
+<center><em>Although a recession may be in our future, that doesn&rsquo;t mean you should panic. Here&rsquo;s why.</em></center>
 
 &nbsp;
 
