@@ -21,12 +21,12 @@ youtube_code: 8XBckH8FnQ4
 
 &nbsp;
 
-We’ve had this lovely eight to ten year great economy with prices going up in Northern Nevada, so we’re starting to hear the word “recession” thrown around. How long can it last? There are really no economic indicators where that point to a terrible recession with dramatic price drops.&nbsp;
+We’ve had this lovely eight- to 10-year economy with prices going up in Northern Nevada, so we’re starting to hear the word “recession” thrown around. How long can it last? There are really no economic indicators that point to a terrible recession with dramatic price drops.&nbsp;
 
 In 2008, when we had a housing crash, it was because of real estate. Bad loans and bad appraisals were major causes.
 
 {% include pullquote.html %}
 
-**A recession, on the other hand, means a slowing of the economy.** Even if things slow down a bit, it still might be better than it was five or six years ago anyway. I don’t think anyone should be overly fearful about buying or selling real estate, especially if they plan on buying now and selling a decade or more down the road.
+**A recession, on the other hand, means a slowing of the economy.** Even if things slow down a bit, it still might be better than it was five or six years ago. I don’t think anyone should be overly fearful about buying or selling real estate, especially if they plan on buying now and selling a decade or more down the road.
 
 **Even though you keep hearing the word “recession”, I don’t think it should scare you in terms of real estate.** If you have any questions for me in the meantime about this topic or about real estate in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
