@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Consider Homeownership?
-date: 2019-10-14 15:01:16
+date: 2019-10-14 15:01:00
 tags:
 excerpt: >-
   There is a key reason why you should consider becoming a homeowner, and today
@@ -12,7 +12,7 @@ pullquote: >-
   what it’s worth in the next five to 10 years.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/lessinger-youtube-5.jpg
 youtube_code: XSexW01td3w
 ---
