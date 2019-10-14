@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/lessinger-youtube-5.jpg
 youtube_code: XSexW01td3w
 ---
 
-{% include youtube.html %}There is a key reason why you should consider becoming a homeowner, and today I’ll share it with you.
+{% include youtube.html %}<center>There is a key reason why you should consider becoming a homeowner, and today I’ll share it with you.</center>
 
 When it comes to talking about the reasons to consider homeownership, many people seem to forget one of the key reasons: **It’s a forced savings account.**
 
