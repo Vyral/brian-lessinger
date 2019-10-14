@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Consider Homeownership?
-date:
+date: 2019-10-14 15:01:16
 tags:
 excerpt: >-
   There is a key reason why you should consider becoming a homeowner, and today
@@ -17,7 +17,11 @@ youtube_alternate_image: /uploads/lessinger-youtube-5.jpg
 youtube_code: XSexW01td3w
 ---
 
-{% include youtube.html %}<center>There is a key reason why you should consider becoming a homeowner, and today I’ll share it with you.</center>
+{% include youtube.html %}
+
+<center>There is a key reason why you should consider becoming a homeowner, and today I&rsquo;ll share it with you.</center>
+
+&nbsp;
 
 When it comes to talking about the reasons to consider homeownership, many people seem to forget one of the key reasons: **It’s a forced savings account.**
 
