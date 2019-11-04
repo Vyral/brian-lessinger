@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Save the Date for These 2 Client Appreciation Events
-date:
+date: 2019-11-04 15:03:48
 tags:
 excerpt: >-
   To show our appreciation to you, you’re invited to two of our upcoming client
@@ -15,7 +15,11 @@ youtube_alternate_image: /uploads/lessinger-youtube-6.jpg
 youtube_code: NoDeaVkqeks
 ---
 
-{% include youtube.html %}<center>To show our appreciation to you, you’re invited to two of our upcoming client appreciation events.</center>
+{% include youtube.html %}
+
+<center>To show our appreciation to you, you&rsquo;re invited to two of our upcoming client appreciation events.</center>
+
+&nbsp;
 
 To those who have worked with us over the years, we always like to show our appreciation for all the referrals and the opportunities to help people buy and sell houses.
 
