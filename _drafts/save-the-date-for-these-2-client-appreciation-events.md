@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/lessinger-youtube-6.jpg
 youtube_code: NoDeaVkqeks
 ---
 
-{% include youtube.html %} To show our appreciation to you, you’re invited to two of our upcoming client appreciation events.
+{% include youtube.html %}<center>To show our appreciation to you, you’re invited to two of our upcoming client appreciation events.</center>
 
 To those who have worked with us over the years, we always like to show our appreciation for all the referrals and the opportunities to help people buy and sell houses.
 
