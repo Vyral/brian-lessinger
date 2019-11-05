@@ -25,9 +25,9 @@ To those who have worked with us over the years, we always like to show our appr
 
 On that note, we have a couple of upcoming client appreciation events that we’d love to see you attend:
 
-**On Tuesday, November 26, we’ll be doing our annual pie giveaway.** Hopefully, by now you’ve received your invitations to RSVP for your free pies in time for Thanksgiving. If you haven’t received your invitation or you haven’t yet RSVPed, you can do so by sending me an email. Learn more here.
+**On Tuesday, November 26, we’ll be doing our annual pie giveaway.** Hopefully, by now you’ve received your invitations to RSVP for your free pies in time for Thanksgiving. If you haven’t received your invitation or you haven’t yet RSVPed, you can do so by sending me an email rsvp@thelessingerteam.com. Please RSVP November 18th.
 
-The following week **on Saturday, December 10, we’ll be hosting our annual photo shoot with Santa Claus**. Be sure to bring your friends and family\! Learn more here.
+The following week **on Saturday, December 10, we’ll be hosting our annual photo shoot with Santa Claus**. Be sure to bring your friends and family\! Again please RSVP by sending us an email at rsvp@thelessingerteam.com. Please RSVP December 4th.&nbsp;
 
 Once again, we thank you for your support over the years, and we hope to see you at our upcoming holiday events\!
 
