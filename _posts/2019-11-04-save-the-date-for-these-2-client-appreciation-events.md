@@ -17,7 +17,7 @@ youtube_code: l39PqPQaXXw
 
 {% include youtube.html %}
 
-<center>To show our appreciation to you, you&rsquo;re invited to two of our upcoming client appreciation events.</center>
+<center><em>To show our appreciation to you, you&rsquo;re invited to two of our upcoming client appreciation events.</em></center>
 
 &nbsp;
 
