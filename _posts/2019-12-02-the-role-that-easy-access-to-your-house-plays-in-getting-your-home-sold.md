@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Role That Easy Access to Your House Plays in Getting Your Home Sold
-date: 2019-12-02 16:40:27
+date: 2019-12-02 16:40:00
 tags:
 excerpt: >-
   If you’re planning to sell your house on the market, it’s critical that you
