@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/lessinger-youtube-7.jpg
 youtube_code: dX7aLQhwcPE
 ---
 
-{% include youtube.html %}If you’re planning to sell your house on the market, it’s critical that you provide adequate access to it. Here’s what I mean.
+{% include youtube.html %}<center>If you’re planning to sell your house on the market, it’s critical that you provide adequate access to it. Here’s what I mean.</center>
 
 The easier we can make it for buyers to see your home, the better. Most agents use those blue Supra Lockboxes that we put on front doors to hold your keys in. They’re very safe and they’re necessary for agents to access your house, but **it’s important to make sure your home is relatively easy to unlock.** Sometimes, we’ll turn the key to the front door for a showing and the lock is tight or won’t turn at all, making it hard to get inside. This leaves a bad taste in buyers’ mouths before they ever walk in the front door.
 
